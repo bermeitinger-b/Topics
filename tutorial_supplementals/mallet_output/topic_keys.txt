@@ -1,10 +1,3 @@
-0	0.5	matter centre atoms point general fact space sun idea force 
-1	0.5	mowgli jungle big bagheera wolf thou head nag baloo sea 
-2	0.5	lake things camp land city danforth mountains place years antarctic 
-3	0.5	conan door wall house human chamber aram conan's ruins street 
-4	0.5	man time good night back make day long don't give 
-5	0.5	ravager smallest dog moore slippers proper master told wented tags 
-6	0.5	holmes face small answered door asked sherlock hand room hope 
-7	0.5	sir holmes man moor watson henry heard friend baskerville house 
-8	0.5	great made left feet long brought light life strange sound 
-9	0.5	eyes black hand men man head trees hands girl body 
+0	1,66667	back head mowgli ravager dog men time big feet smallest 
+1	1,66667	great point matter things fact sun earth made general centre 
+2	1,66667	man holmes sir hand face time eyes door house back 
