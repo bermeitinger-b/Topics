@@ -1,0 +1,69 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="1.6666666666666667" totalTokens="77378" titles="man, holmes, back, sir, time, eyes, night, face, good, head">
+	<word weight="0.010106231745457364" count="782">man</word>
+	<word weight="0.005828530073147406" count="451">holmes</word>
+	<word weight="0.005466670112952002" count="423">back</word>
+	<word weight="0.005427899402931066" count="420">sir</word>
+	<word weight="0.005221122282819406" count="404">time</word>
+	<word weight="0.004045077412184342" count="313">eyes</word>
+	<word weight="0.003993383132156427" count="309">night</word>
+	<word weight="0.0038383002920726822" count="297">face</word>
+	<word weight="0.0038253767220657034" count="296">good</word>
+	<word weight="0.003786606012044767" count="293">head</word>
+	<phrase weight="8.089887640449438E-4" count="9">sir henry</phrase>
+	<phrase weight="4.4943820224719103E-4" count="5">sir charles</phrase>
+	<phrase weight="4.4943820224719103E-4" count="5">detective police</phrase>
+	<phrase weight="3.5955056179775283E-4" count="4">sherlock holmes</phrase>
+	<phrase weight="2.696629213483146E-4" count="3">man stood</phrase>
+	<phrase weight="2.696629213483146E-4" count="3">red death</phrase>
+	<phrase weight="2.696629213483146E-4" count="3">sir charles baskerville</phrase>
+	<phrase weight="2.696629213483146E-4" count="3">baskerville hall</phrase>
+	<phrase weight="2.696629213483146E-4" count="3">rudyard kipling</phrase>
+	<phrase weight="2.696629213483146E-4" count="3">closed eyes</phrase>
+  </topic>
+  <topic id="1" alpha="1.6666666666666667" totalTokens="30402" titles="ravager, point, matter, smallest, dog, proper, fact, moore, slippers, general">
+	<word weight="0.006512729425695678" count="198">ravager</word>
+	<word weight="0.005986448259982896" count="182">point</word>
+	<word weight="0.0053285968028419185" count="162">matter</word>
+	<word weight="0.004769423064272088" count="145">smallest</word>
+	<word weight="0.0040128938885599635" count="122">dog</word>
+	<word weight="0.00381553845141767" count="116">proper</word>
+	<word weight="0.003782645878560621" count="115">fact</word>
+	<word weight="0.0034537201499901323" count="105">moore</word>
+	<word weight="0.0034208275771330835" count="104">slippers</word>
+	<word weight="0.0033221498585619368" count="101">general</word>
+	<phrase weight="0.0025764895330112722" count="8">kitchen cat</phrase>
+	<phrase weight="0.0022544283413848632" count="7">point view</phrase>
+	<phrase weight="0.0012882447665056361" count="4">toby dog</phrase>
+	<phrase weight="9.66183574879227E-4" count="3">replied prefect</phrase>
+	<phrase weight="9.66183574879227E-4" count="3">master digby</phrase>
+	<phrase weight="9.66183574879227E-4" count="3">smallest proper</phrase>
+	<phrase weight="6.441223832528181E-4" count="2">egoist ravager's</phrase>
+	<phrase weight="6.441223832528181E-4" count="2">ravager walk</phrase>
+	<phrase weight="6.441223832528181E-4" count="2">theory explained</phrase>
+	<phrase weight="6.441223832528181E-4" count="2">lots ravager</phrase>
+  </topic>
+  <topic id="2" alpha="1.6666666666666667" totalTokens="40320" titles="conan, great, feet, city, made, door, floor, walls, land, back">
+	<word weight="0.00587797619047619" count="237">conan</word>
+	<word weight="0.005208333333333333" count="210">great</word>
+	<word weight="0.0033482142857142855" count="135">feet</word>
+	<word weight="0.003025793650793651" count="122">city</word>
+	<word weight="0.002951388888888889" count="119">made</word>
+	<word weight="0.002876984126984127" count="116">door</word>
+	<word weight="0.00248015873015873" count="100">floor</word>
+	<word weight="0.002455357142857143" count="99">walls</word>
+	<word weight="0.0023313492063492063" count="94">land</word>
+	<word weight="0.0023313492063492063" count="94">back</word>
+	<phrase weight="0.0014308426073131955" count="9">aram baksh</phrase>
+	<phrase weight="6.359300476947536E-4" count="4">shah amurath</phrase>
+	<phrase weight="4.769475357710652E-4" count="3">prince prospero</phrase>
+	<phrase weight="3.179650238473768E-4" count="2">blue sea</phrase>
+	<phrase weight="3.179650238473768E-4" count="2">moonlight crept</phrase>
+	<phrase weight="3.179650238473768E-4" count="2">strange region</phrase>
+	<phrase weight="3.179650238473768E-4" count="2">gedney missing</phrase>
+	<phrase weight="3.179650238473768E-4" count="2">extensive research uncover</phrase>
+	<phrase weight="3.179650238473768E-4" count="2">great misshapen</phrase>
+	<phrase weight="3.179650238473768E-4" count="2">western side</phrase>
+  </topic>
+</topics>
