@@ -1,0 +1,39 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='1.6666666666666667' totalTokens='60824'>
+	<word rank='1' count='637.0'>man</word>
+	<word rank='2' count='451.0'>holmes</word>
+	<word rank='3' count='422.0'>sir</word>
+	<word rank='4' count='297.0'>face</word>
+	<word rank='5' count='271.0'>time</word>
+	<word rank='6' count='235.0'>back</word>
+	<word rank='7' count='234.0'>house</word>
+	<word rank='8' count='216.0'>hand</word>
+	<word rank='9' count='210.0'>long</word>
+	<word rank='10' count='207.0'>night</word>
+  </topic>
+  <topic id='1' alpha='1.6666666666666667' totalTokens='50017'>
+	<word rank='1' count='287.0'>head</word>
+	<word rank='2' count='282.0'>back</word>
+	<word rank='3' count='237.0'>conan</word>
+	<word rank='4' count='207.0'>eyes</word>
+	<word rank='5' count='202.0'>mowgli</word>
+	<word rank='6' count='198.0'>ravager</word>
+	<word rank='7' count='197.0'>man</word>
+	<word rank='8' count='196.0'>men</word>
+	<word rank='9' count='195.0'>dog</word>
+	<word rank='10' count='191.0'>feet</word>
+  </topic>
+  <topic id='2' alpha='1.6666666666666667' totalTokens='37259'>
+	<word rank='1' count='131.0'>great</word>
+	<word rank='2' count='127.0'>point</word>
+	<word rank='3' count='115.0'>made</word>
+	<word rank='4' count='107.0'>earth</word>
+	<word rank='5' count='103.0'>distance</word>
+	<word rank='6' count='101.0'>general</word>
+	<word rank='7' count='100.0'>years</word>
+	<word rank='8' count='99.0'>sun</word>
+	<word rank='9' count='99.0'>matter</word>
+	<word rank='10' count='97.0'>space</word>
+  </topic>
+</topicModel>
