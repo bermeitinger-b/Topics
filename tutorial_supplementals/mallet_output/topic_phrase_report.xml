@@ -1,69 +1,223 @@
 <?xml version='1.0' ?>
 <topics>
-  <topic id="0" alpha="1.6666666666666667" totalTokens="77378" titles="man, holmes, back, sir, time, eyes, night, face, good, head">
-	<word weight="0.010106231745457364" count="782">man</word>
-	<word weight="0.005828530073147406" count="451">holmes</word>
-	<word weight="0.005466670112952002" count="423">back</word>
-	<word weight="0.005427899402931066" count="420">sir</word>
-	<word weight="0.005221122282819406" count="404">time</word>
-	<word weight="0.004045077412184342" count="313">eyes</word>
-	<word weight="0.003993383132156427" count="309">night</word>
-	<word weight="0.0038383002920726822" count="297">face</word>
-	<word weight="0.0038253767220657034" count="296">good</word>
-	<word weight="0.003786606012044767" count="293">head</word>
-	<phrase weight="8.089887640449438E-4" count="9">sir henry</phrase>
-	<phrase weight="4.4943820224719103E-4" count="5">sir charles</phrase>
-	<phrase weight="4.4943820224719103E-4" count="5">detective police</phrase>
-	<phrase weight="3.5955056179775283E-4" count="4">sherlock holmes</phrase>
-	<phrase weight="2.696629213483146E-4" count="3">man stood</phrase>
-	<phrase weight="2.696629213483146E-4" count="3">red death</phrase>
-	<phrase weight="2.696629213483146E-4" count="3">sir charles baskerville</phrase>
-	<phrase weight="2.696629213483146E-4" count="3">baskerville hall</phrase>
-	<phrase weight="2.696629213483146E-4" count="3">rudyard kipling</phrase>
-	<phrase weight="2.696629213483146E-4" count="3">closed eyes</phrase>
+  <topic id="0" alpha="0.5" totalTokens="21256" titles="face, made, found, small, hand, long, night, asked, room, mind">
+	<word weight="0.013972525404591644" count="297">face</word>
+	<word weight="0.011714339480617238" count="249">made</word>
+	<word weight="0.010773428678961234" count="229">found</word>
+	<word weight="0.009738426797139632" count="207">small</word>
+	<word weight="0.009456153556642831" count="201">hand</word>
+	<word weight="0.009032743695897629" count="192">long</word>
+	<word weight="0.008938652615732028" count="190">night</word>
+	<word weight="0.00889160707564923" count="189">asked</word>
+	<word weight="0.008703424915318028" count="185">room</word>
+	<word weight="0.007762514113662025" count="165">mind</word>
+	<phrase weight="0.005418218760582459" count="16">miss morstan</phrase>
+	<phrase weight="0.002031832035218422" count="6">jonathan small</phrase>
+	<phrase weight="0.0016931933626820183" count="5">made mind</phrase>
+	<phrase weight="0.0013545546901456147" count="4">half dozen</phrase>
+	<phrase weight="0.0013545546901456147" count="4">open door</phrase>
+	<phrase weight="0.0013545546901456147" count="4">half hour</phrase>
+	<phrase weight="0.001015916017609211" count="3">door window</phrase>
+	<phrase weight="0.001015916017609211" count="3">upper norwood</phrase>
+	<phrase weight="0.001015916017609211" count="3">entered room</phrase>
+	<phrase weight="0.001015916017609211" count="3">side street</phrase>
   </topic>
-  <topic id="1" alpha="1.6666666666666667" totalTokens="30402" titles="ravager, point, matter, smallest, dog, proper, fact, moore, slippers, general">
-	<word weight="0.006512729425695678" count="198">ravager</word>
-	<word weight="0.005986448259982896" count="182">point</word>
-	<word weight="0.0053285968028419185" count="162">matter</word>
-	<word weight="0.004769423064272088" count="145">smallest</word>
-	<word weight="0.0040128938885599635" count="122">dog</word>
-	<word weight="0.00381553845141767" count="116">proper</word>
-	<word weight="0.003782645878560621" count="115">fact</word>
-	<word weight="0.0034537201499901323" count="105">moore</word>
-	<word weight="0.0034208275771330835" count="104">slippers</word>
-	<word weight="0.0033221498585619368" count="101">general</word>
-	<phrase weight="0.0025764895330112722" count="8">kitchen cat</phrase>
-	<phrase weight="0.0022544283413848632" count="7">point view</phrase>
-	<phrase weight="0.0012882447665056361" count="4">toby dog</phrase>
-	<phrase weight="9.66183574879227E-4" count="3">replied prefect</phrase>
-	<phrase weight="9.66183574879227E-4" count="3">master digby</phrase>
-	<phrase weight="9.66183574879227E-4" count="3">smallest proper</phrase>
-	<phrase weight="6.441223832528181E-4" count="2">egoist ravager's</phrase>
-	<phrase weight="6.441223832528181E-4" count="2">ravager walk</phrase>
-	<phrase weight="6.441223832528181E-4" count="2">theory explained</phrase>
-	<phrase weight="6.441223832528181E-4" count="2">lots ravager</phrase>
+  <topic id="1" alpha="0.5" totalTokens="11675" titles="man, time, hope, case, don't, work, appeared, round, sherlock, life">
+	<word weight="0.02201284796573876" count="257">man</word>
+	<word weight="0.009850107066381156" count="115">time</word>
+	<word weight="0.007708779443254818" count="90">hope</word>
+	<word weight="0.007280513918629551" count="85">case</word>
+	<word weight="0.007109207708779443" count="83">don't</word>
+	<word weight="0.007109207708779443" count="83">work</word>
+	<word weight="0.00702355460385439" count="82">appeared</word>
+	<word weight="0.006167023554603855" count="72">round</word>
+	<word weight="0.006081370449678801" count="71">sherlock</word>
+	<word weight="0.0059957173447537475" count="70">life</word>
+	<phrase weight="0.007777057679844459" count="12">jefferson hope</phrase>
+	<phrase weight="0.007128969539857421" count="11">john ferrier</phrase>
+	<phrase weight="0.005832793259883344" count="9">thaddeus sholto</phrase>
+	<phrase weight="0.0038885288399222295" count="6">gregson lestrade</phrase>
+	<phrase weight="0.002592352559948153" count="4">bartholomew sholto</phrase>
+	<phrase weight="0.0019442644199611147" count="3">avenging angels</phrase>
+	<phrase weight="0.0019442644199611147" count="3">lal chowdar</phrase>
+	<phrase weight="0.0019442644199611147" count="3">secretary stangerson</phrase>
+	<phrase weight="0.0019442644199611147" count="3">salt lake</phrase>
+	<phrase weight="0.0012961762799740765" count="2">observation deduction</phrase>
   </topic>
-  <topic id="2" alpha="1.6666666666666667" totalTokens="40320" titles="conan, great, feet, city, made, door, floor, walls, land, back">
-	<word weight="0.00587797619047619" count="237">conan</word>
-	<word weight="0.005208333333333333" count="210">great</word>
-	<word weight="0.0033482142857142855" count="135">feet</word>
-	<word weight="0.003025793650793651" count="122">city</word>
-	<word weight="0.002951388888888889" count="119">made</word>
-	<word weight="0.002876984126984127" count="116">door</word>
-	<word weight="0.00248015873015873" count="100">floor</word>
-	<word weight="0.002455357142857143" count="99">walls</word>
-	<word weight="0.0023313492063492063" count="94">land</word>
-	<word weight="0.0023313492063492063" count="94">back</word>
-	<phrase weight="0.0014308426073131955" count="9">aram baksh</phrase>
-	<phrase weight="6.359300476947536E-4" count="4">shah amurath</phrase>
-	<phrase weight="4.769475357710652E-4" count="3">prince prospero</phrase>
-	<phrase weight="3.179650238473768E-4" count="2">blue sea</phrase>
-	<phrase weight="3.179650238473768E-4" count="2">moonlight crept</phrase>
-	<phrase weight="3.179650238473768E-4" count="2">strange region</phrase>
-	<phrase weight="3.179650238473768E-4" count="2">gedney missing</phrase>
-	<phrase weight="3.179650238473768E-4" count="2">extensive research uncover</phrase>
-	<phrase weight="3.179650238473768E-4" count="2">great misshapen</phrase>
-	<phrase weight="3.179650238473768E-4" count="2">western side</phrase>
+  <topic id="2" alpha="0.5" totalTokens="11017" titles="made, lake, land, camp, city, mountains, danforth, vast, things, world">
+	<word weight="0.0068984296995552325" count="76">made</word>
+	<word weight="0.00680766088771898" count="75">lake</word>
+	<word weight="0.0064445856403739675" count="71">land</word>
+	<word weight="0.0064445856403739675" count="71">camp</word>
+	<word weight="0.006172279204865208" count="68">city</word>
+	<word weight="0.004992284650993918" count="55">mountains</word>
+	<word weight="0.004901515839157666" count="54">danforth</word>
+	<word weight="0.0044476717799764" count="49">vast</word>
+	<word weight="0.004356902968140147" count="48">things</word>
+	<word weight="0.004356902968140147" count="48">world</word>
+	<phrase weight="0.0022431583669807087" count="5">lake's camp</phrase>
+	<phrase weight="0.0013458950201884253" count="3">fifty million</phrase>
+	<phrase weight="8.972633467922835E-4" count="2">exploring planes</phrase>
+	<phrase weight="8.972633467922835E-4" count="2">mountains madness</phrase>
+	<phrase weight="8.972633467922835E-4" count="2">reddish antarctic</phrase>
+	<phrase weight="8.972633467922835E-4" count="2">circular place</phrase>
+	<phrase weight="8.972633467922835E-4" count="2">highly evolved</phrase>
+	<phrase weight="8.972633467922835E-4" count="2">musical piping</phrase>
+	<phrase weight="8.972633467922835E-4" count="2">sunless sea</phrase>
+	<phrase weight="8.972633467922835E-4" count="2">biological specimens</phrase>
+  </topic>
+  <topic id="3" alpha="0.5" totalTokens="13537" titles="mowgli, ravager, smallest, jungle, dog, big, bagheera, thou, told, moore">
+	<word weight="0.01492206545024747" count="202">mowgli</word>
+	<word weight="0.014626579005688114" count="198">ravager</word>
+	<word weight="0.01063751200413681" count="144">smallest</word>
+	<word weight="0.009307823003619708" count="126">jungle</word>
+	<word weight="0.00923395139247987" count="125">dog</word>
+	<word weight="0.008347492058801802" count="113">big</word>
+	<word weight="0.008199748836522124" count="111">bagheera</word>
+	<word weight="0.008199748836522124" count="111">thou</word>
+	<word weight="0.00783039078082293" count="106">told</word>
+	<word weight="0.00775651916968309" count="105">moore</word>
+	<phrase weight="0.005048543689320388" count="13">kala nag</phrase>
+	<phrase weight="0.004660194174757282" count="12">law jungle</phrase>
+	<phrase weight="0.001941747572815534" count="5">machua appa</phrase>
+	<phrase weight="0.0015533980582524273" count="4">hind legs</phrase>
+	<phrase weight="0.0015533980582524273" count="4">mahadeo mahadeo</phrase>
+	<phrase weight="0.0015533980582524273" count="4">kala nag's</phrase>
+	<phrase weight="0.0015533980582524273" count="4">friend vicomte</phrase>
+	<phrase weight="0.0011650485436893205" count="3">thy tail</phrase>
+	<phrase weight="0.0011650485436893205" count="3">toomai elephants</phrase>
+	<phrase weight="0.0011650485436893205" count="3">kitchen cat</phrase>
+  </topic>
+  <topic id="4" alpha="0.5" totalTokens="11217" titles="conan, eyes, man, door, black, girl, sword, trees, wall, olivia">
+	<word weight="0.0211286440224659" count="237">conan</word>
+	<word weight="0.011500401176785236" count="129">eyes</word>
+	<word weight="0.009449942052242132" count="106">man</word>
+	<word weight="0.007488633324418294" count="84">door</word>
+	<word weight="0.00677543015066417" count="76">black</word>
+	<word weight="0.006240527770348578" count="70">girl</word>
+	<word weight="0.006062226976910047" count="68">sword</word>
+	<word weight="0.005349023803155924" count="60">trees</word>
+	<word weight="0.004724971026121066" count="53">wall</word>
+	<word weight="0.004635820629401801" count="52">olivia</word>
+	<phrase weight="0.005152224824355972" count="11">aram baksh</phrase>
+	<phrase weight="0.00234192037470726" count="5">shah amurath</phrase>
+	<phrase weight="0.001873536299765808" count="4">u.s copyright publication</phrase>
+	<phrase weight="0.001405152224824356" count="3">extensive research uncover</phrase>
+	<phrase weight="0.001405152224824356" count="3">etext published weird</phrase>
+	<phrase weight="9.36768149882904E-4" count="2">sobbing gasp</phrase>
+	<phrase weight="9.36768149882904E-4" count="2">dust ages</phrase>
+	<phrase weight="9.36768149882904E-4" count="2">red brotherhood</phrase>
+	<phrase weight="9.36768149882904E-4" count="2">body sergius</phrase>
+	<phrase weight="9.36768149882904E-4" count="2">velvet tapestries</phrase>
+  </topic>
+  <topic id="5" alpha="0.5" totalTokens="13785" titles="fact, matter, atoms, centre, point, general, idea, force, sun, universe">
+	<word weight="0.006819006166122597" count="94">fact</word>
+	<word weight="0.006601378309756982" count="91">matter</word>
+	<word weight="0.006456293072179905" count="89">atoms</word>
+	<word weight="0.006238665215814291" count="86">centre</word>
+	<word weight="0.006238665215814291" count="86">point</word>
+	<word weight="0.0060210373594486765" count="83">general</word>
+	<word weight="0.005585781646717447" count="77">idea</word>
+	<word weight="0.005368153790351831" count="74">force</word>
+	<word weight="0.005368153790351831" count="74">sun</word>
+	<word weight="0.005223068552774755" count="72">universe</word>
+	<phrase weight="0.0015329586101175269" count="3">solar system</phrase>
+	<phrase weight="0.001021972406745018" count="2">considered possibility</phrase>
+	<phrase weight="0.001021972406745018" count="2">distance neptune</phrase>
+	<phrase weight="0.001021972406745018" count="2">globe globes</phrase>
+	<phrase weight="0.001021972406745018" count="2">laws kepler</phrase>
+	<phrase weight="5.10986203372509E-4" count="1">accounted mere proximity central orb</phrase>
+	<phrase weight="5.10986203372509E-4" count="1">unity—diversity sameness—heterogeneity homogeneity—complexity simplicity—in word utmost multiplicity relation emphatically irrelative</phrase>
+	<phrase weight="5.10986203372509E-4" count="1">refutation confirmation nebular hypothesis explain:—the newtonian law gravity assume demonstrated law</phrase>
+	<phrase weight="5.10986203372509E-4" count="1">consequence forms basis discourse general direction atom—of moon planet star cluster—would hypothesis absolutely rectilinear general path bodies line leading centre</phrase>
+	<phrase weight="5.10986203372509E-4" count="1">moon mars thrown ring fact epoch</phrase>
+  </topic>
+  <topic id="6" alpha="0.5" totalTokens="20101" titles="great, feet, back, left, life, dead, dark, lay, felt, light">
+	<word weight="0.020993980398985125" count="422">great</word>
+	<word weight="0.013631162628724939" count="274">feet</word>
+	<word weight="0.011939704492313815" count="240">back</word>
+	<word weight="0.009104024675389285" count="183">left</word>
+	<word weight="0.0071140739266703145" count="143">life</word>
+	<word weight="0.006865330083080444" count="138">dead</word>
+	<word weight="0.006716083776926521" count="135">dark</word>
+	<word weight="0.00646733993333665" count="130">lay</word>
+	<word weight="0.006417591164618676" count="129">felt</word>
+	<word weight="0.006168847321028804" count="124">light</word>
+	<phrase weight="0.002346316283435007" count="5">stone huts</phrase>
+	<phrase weight="0.0018770530267480056" count="4">life death</phrase>
+	<phrase weight="0.0018770530267480056" count="4">years ago</phrase>
+	<phrase weight="0.0014077897700610043" count="3">stone wall</phrase>
+	<phrase weight="0.0014077897700610043" count="3">back terrible</phrase>
+	<phrase weight="0.0014077897700610043" count="3">grew louder</phrase>
+	<phrase weight="0.0014077897700610043" count="3">white shape</phrase>
+	<phrase weight="0.0014077897700610043" count="3">earth sky</phrase>
+	<phrase weight="9.385265133740028E-4" count="2">stir foot</phrase>
+	<phrase weight="9.385265133740028E-4" count="2">shells bones</phrase>
+  </topic>
+  <topic id="7" alpha="0.5" totalTokens="14196" titles="sir henry, sherlock holmes, man, moor, watson, matter, baskerville, friend, case, ">
+	<word weight="0.03176951253874331" count="451">holmes</word>
+	<word weight="0.02972668357283742" count="422">sir</word>
+	<word weight="0.01873767258382643" count="266">man</word>
+	<word weight="0.011059453367145675" count="157">moor</word>
+	<word weight="0.010355029585798817" count="147">watson</word>
+	<word weight="0.01014370245139476" count="144">henry</word>
+	<word weight="0.008030431107354184" count="114">matter</word>
+	<word weight="0.007748661594815441" count="110">baskerville</word>
+	<word weight="0.007466892082276698" count="106">friend</word>
+	<word weight="0.0066920259227951535" count="95">case</word>
+	<phrase weight="0.015715467328370553" count="38">sir henry</phrase>
+	<phrase weight="0.009511993382961124" count="23">sherlock holmes</phrase>
+	<phrase weight="0.006617038875103391" count="16">sir charles</phrase>
+	<phrase weight="0.0037220843672456576" count="9">baskerville hall</phrase>
+	<phrase weight="0.0033085194375516956" count="8">sir charles's</phrase>
+	<phrase weight="0.0033085194375516956" count="8">coombe tracey</phrase>
+	<phrase weight="0.0028949545078577337" count="7">irene adler</phrase>
+	<phrase weight="0.0028949545078577337" count="7">grimpen mire</phrase>
+	<phrase weight="0.0024813895781637717" count="6">yew alley</phrase>
+	<phrase weight="0.0024813895781637717" count="6">dear watson</phrase>
+  </topic>
+  <topic id="8" alpha="0.5" totalTokens="12182" titles="thing, time, years, moment, thought, place, things, form, nature, doubt">
+	<word weight="0.010589394188146445" count="129">thing</word>
+	<word weight="0.009440157609587916" count="115">time</word>
+	<word weight="0.007634214414710228" count="93">years</word>
+	<word weight="0.006813331144311279" count="83">moment</word>
+	<word weight="0.00632080118207191" count="77">thought</word>
+	<word weight="0.00582827121983254" count="71">place</word>
+	<word weight="0.00549991791167296" count="67">things</word>
+	<word weight="0.004925299622393696" count="60">form</word>
+	<word weight="0.004925299622393696" count="60">nature</word>
+	<word weight="0.004925299622393696" count="60">doubt</word>
+	<phrase weight="0.0037425149700598802" count="5">shunned house</phrase>
+	<phrase weight="0.002245508982035928" count="3">william harris</phrase>
+	<phrase weight="0.002245508982035928" count="3">rhoby harris</phrase>
+	<phrase weight="0.002245508982035928" count="3">widely separated</phrase>
+	<phrase weight="0.0014970059880239522" count="2">replied dupin</phrase>
+	<phrase weight="0.0014970059880239522" count="2">shortly afterward</phrase>
+	<phrase weight="0.0014970059880239522" count="2">etienne roulet</phrase>
+	<phrase weight="0.0014970059880239522" count="2">carefully examined</phrase>
+	<phrase weight="0.0014970059880239522" count="2">case proved</phrase>
+	<phrase weight="0.0014970059880239522" count="2">archer harris</phrase>
+  </topic>
+  <topic id="9" alpha="0.5" totalTokens="19134" titles="head, time, men, good, people, eyes, knew, long, man, father">
+	<word weight="0.01620152607923069" count="310">head</word>
+	<word weight="0.01013901954635727" count="194">time</word>
+	<word weight="0.009720915647538414" count="186">men</word>
+	<word weight="0.0096163896728337" count="184">good</word>
+	<word weight="0.007943974077558274" count="152">people</word>
+	<word weight="0.007891711090205917" count="151">eyes</word>
+	<word weight="0.007578133166091774" count="145">knew</word>
+	<word weight="0.007316818229329988" count="140">long</word>
+	<word weight="0.0070032403052158465" count="134">man</word>
+	<word weight="0.006794188355806418" count="130">father</word>
+	<phrase weight="0.0025343953656770456" count="7">father wolf</phrase>
+	<phrase weight="0.002172338884866039" count="6">council rock</phrase>
+	<phrase weight="0.002172338884866039" count="6">gray brother</phrase>
+	<phrase weight="0.0018102824040550326" count="5">mother wolf</phrase>
+	<phrase weight="0.001448225923244026" count="4">half mile</phrase>
+	<phrase weight="0.0010861694424330196" count="3">rubbish heap</phrase>
+	<phrase weight="0.0010861694424330196" count="3">twenty thirty</phrase>
+	<phrase weight="0.0010861694424330196" count="3">monkey people</phrase>
+	<phrase weight="0.0010861694424330196" count="3">mother father</phrase>
+	<phrase weight="0.0010861694424330196" count="3">hundred miles</phrase>
   </topic>
 </topics>

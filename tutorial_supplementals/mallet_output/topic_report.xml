@@ -1,39 +1,123 @@
 <?xml version='1.0' ?>
 <topicModel>
-  <topic id='0' alpha='1.6666666666666667' totalTokens='77378'>
-	<word rank='1' count='782.0'>man</word>
-	<word rank='2' count='451.0'>holmes</word>
-	<word rank='3' count='423.0'>back</word>
-	<word rank='4' count='420.0'>sir</word>
-	<word rank='5' count='404.0'>time</word>
-	<word rank='6' count='313.0'>eyes</word>
-	<word rank='7' count='309.0'>night</word>
-	<word rank='8' count='297.0'>face</word>
-	<word rank='9' count='296.0'>good</word>
-	<word rank='10' count='293.0'>head</word>
+  <topic id='0' alpha='0.5' totalTokens='21256'>
+	<word rank='1' count='297.0'>face</word>
+	<word rank='2' count='249.0'>made</word>
+	<word rank='3' count='229.0'>found</word>
+	<word rank='4' count='207.0'>small</word>
+	<word rank='5' count='201.0'>hand</word>
+	<word rank='6' count='192.0'>long</word>
+	<word rank='7' count='190.0'>night</word>
+	<word rank='8' count='189.0'>asked</word>
+	<word rank='9' count='185.0'>room</word>
+	<word rank='10' count='165.0'>mind</word>
   </topic>
-  <topic id='1' alpha='1.6666666666666667' totalTokens='30402'>
-	<word rank='1' count='198.0'>ravager</word>
-	<word rank='2' count='182.0'>point</word>
-	<word rank='3' count='162.0'>matter</word>
-	<word rank='4' count='145.0'>smallest</word>
-	<word rank='5' count='122.0'>dog</word>
-	<word rank='6' count='116.0'>proper</word>
-	<word rank='7' count='115.0'>fact</word>
-	<word rank='8' count='105.0'>moore</word>
-	<word rank='9' count='104.0'>slippers</word>
-	<word rank='10' count='101.0'>general</word>
+  <topic id='1' alpha='0.5' totalTokens='11675'>
+	<word rank='1' count='257.0'>man</word>
+	<word rank='2' count='115.0'>time</word>
+	<word rank='3' count='90.0'>hope</word>
+	<word rank='4' count='85.0'>case</word>
+	<word rank='5' count='83.0'>don't</word>
+	<word rank='6' count='83.0'>work</word>
+	<word rank='7' count='82.0'>appeared</word>
+	<word rank='8' count='72.0'>round</word>
+	<word rank='9' count='71.0'>sherlock</word>
+	<word rank='10' count='70.0'>life</word>
   </topic>
-  <topic id='2' alpha='1.6666666666666667' totalTokens='40320'>
+  <topic id='2' alpha='0.5' totalTokens='11017'>
+	<word rank='1' count='76.0'>made</word>
+	<word rank='2' count='75.0'>lake</word>
+	<word rank='3' count='71.0'>land</word>
+	<word rank='4' count='71.0'>camp</word>
+	<word rank='5' count='68.0'>city</word>
+	<word rank='6' count='55.0'>mountains</word>
+	<word rank='7' count='54.0'>danforth</word>
+	<word rank='8' count='49.0'>vast</word>
+	<word rank='9' count='48.0'>things</word>
+	<word rank='10' count='48.0'>world</word>
+  </topic>
+  <topic id='3' alpha='0.5' totalTokens='13537'>
+	<word rank='1' count='202.0'>mowgli</word>
+	<word rank='2' count='198.0'>ravager</word>
+	<word rank='3' count='144.0'>smallest</word>
+	<word rank='4' count='126.0'>jungle</word>
+	<word rank='5' count='125.0'>dog</word>
+	<word rank='6' count='113.0'>big</word>
+	<word rank='7' count='111.0'>bagheera</word>
+	<word rank='8' count='111.0'>thou</word>
+	<word rank='9' count='106.0'>told</word>
+	<word rank='10' count='105.0'>moore</word>
+  </topic>
+  <topic id='4' alpha='0.5' totalTokens='11217'>
 	<word rank='1' count='237.0'>conan</word>
-	<word rank='2' count='210.0'>great</word>
-	<word rank='3' count='135.0'>feet</word>
-	<word rank='4' count='122.0'>city</word>
-	<word rank='5' count='119.0'>made</word>
-	<word rank='6' count='116.0'>door</word>
-	<word rank='7' count='100.0'>floor</word>
-	<word rank='8' count='99.0'>walls</word>
-	<word rank='9' count='94.0'>land</word>
-	<word rank='10' count='94.0'>back</word>
+	<word rank='2' count='129.0'>eyes</word>
+	<word rank='3' count='106.0'>man</word>
+	<word rank='4' count='84.0'>door</word>
+	<word rank='5' count='76.0'>black</word>
+	<word rank='6' count='70.0'>girl</word>
+	<word rank='7' count='68.0'>sword</word>
+	<word rank='8' count='60.0'>trees</word>
+	<word rank='9' count='53.0'>wall</word>
+	<word rank='10' count='52.0'>olivia</word>
+  </topic>
+  <topic id='5' alpha='0.5' totalTokens='13785'>
+	<word rank='1' count='94.0'>fact</word>
+	<word rank='2' count='91.0'>matter</word>
+	<word rank='3' count='89.0'>atoms</word>
+	<word rank='4' count='86.0'>centre</word>
+	<word rank='5' count='86.0'>point</word>
+	<word rank='6' count='83.0'>general</word>
+	<word rank='7' count='77.0'>idea</word>
+	<word rank='8' count='74.0'>force</word>
+	<word rank='9' count='74.0'>sun</word>
+	<word rank='10' count='72.0'>universe</word>
+  </topic>
+  <topic id='6' alpha='0.5' totalTokens='20101'>
+	<word rank='1' count='422.0'>great</word>
+	<word rank='2' count='274.0'>feet</word>
+	<word rank='3' count='240.0'>back</word>
+	<word rank='4' count='183.0'>left</word>
+	<word rank='5' count='143.0'>life</word>
+	<word rank='6' count='138.0'>dead</word>
+	<word rank='7' count='135.0'>dark</word>
+	<word rank='8' count='130.0'>lay</word>
+	<word rank='9' count='129.0'>felt</word>
+	<word rank='10' count='124.0'>light</word>
+  </topic>
+  <topic id='7' alpha='0.5' totalTokens='14196'>
+	<word rank='1' count='451.0'>holmes</word>
+	<word rank='2' count='422.0'>sir</word>
+	<word rank='3' count='266.0'>man</word>
+	<word rank='4' count='157.0'>moor</word>
+	<word rank='5' count='147.0'>watson</word>
+	<word rank='6' count='144.0'>henry</word>
+	<word rank='7' count='114.0'>matter</word>
+	<word rank='8' count='110.0'>baskerville</word>
+	<word rank='9' count='106.0'>friend</word>
+	<word rank='10' count='95.0'>case</word>
+  </topic>
+  <topic id='8' alpha='0.5' totalTokens='12182'>
+	<word rank='1' count='129.0'>thing</word>
+	<word rank='2' count='115.0'>time</word>
+	<word rank='3' count='93.0'>years</word>
+	<word rank='4' count='83.0'>moment</word>
+	<word rank='5' count='77.0'>thought</word>
+	<word rank='6' count='71.0'>place</word>
+	<word rank='7' count='67.0'>things</word>
+	<word rank='8' count='60.0'>form</word>
+	<word rank='9' count='60.0'>nature</word>
+	<word rank='10' count='60.0'>doubt</word>
+  </topic>
+  <topic id='9' alpha='0.5' totalTokens='19134'>
+	<word rank='1' count='310.0'>head</word>
+	<word rank='2' count='194.0'>time</word>
+	<word rank='3' count='186.0'>men</word>
+	<word rank='4' count='184.0'>good</word>
+	<word rank='5' count='152.0'>people</word>
+	<word rank='6' count='151.0'>eyes</word>
+	<word rank='7' count='145.0'>knew</word>
+	<word rank='8' count='140.0'>long</word>
+	<word rank='9' count='134.0'>man</word>
+	<word rank='10' count='130.0'>father</word>
   </topic>
 </topicModel>

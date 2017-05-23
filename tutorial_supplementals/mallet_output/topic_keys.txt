@@ -1,3 +1,10 @@
-0	1.66667	man holmes back sir time eyes night face good head 
-1	1.66667	ravager point matter smallest dog proper fact moore slippers general 
-2	1.66667	conan great feet city made door floor walls land back 
+0	0,5	face made found small hand long night asked room mind 
+1	0,5	man time hope case don't work appeared round sherlock life 
+2	0,5	made lake land camp city mountains danforth vast things world 
+3	0,5	mowgli ravager smallest jungle dog big bagheera thou told moore 
+4	0,5	conan eyes man door black girl sword trees wall olivia 
+5	0,5	fact matter atoms centre point general idea force sun universe 
+6	0,5	great feet back left life dead dark lay felt light 
+7	0,5	holmes sir man moor watson henry matter baskerville friend case 
+8	0,5	thing time years moment thought place things form nature doubt 
+9	0,5	head time men good people eyes knew long man father 
